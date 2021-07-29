@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project 7 Graphs and Mazes: Graphs and Mazes
+
+courseName=CMSC132
+semester=202101
+projectNumber=7 Graphs and Mazes
+courseKey=61be1876fea1e17f
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2021
+submitURL=https://submit.cs.umd.edu:443/spring2021/eclipse/SubmitProjectViaEclipse

@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project Quiz 02 10:00AM: Quiz 02 10:00 AM
+
+courseName=CMSC132
+semester=202101
+projectNumber=Quiz 02 10:00AM
+courseKey=61be1876fea1e17f
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2021
+submitURL=https://submit.cs.umd.edu:443/spring2021/eclipse/SubmitProjectViaEclipse
